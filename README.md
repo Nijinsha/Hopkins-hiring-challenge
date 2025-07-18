@@ -27,6 +27,7 @@ Hopkins is building an AI analyst for private equity. This tool parses CIMs and 
 ## 🚀 Usage
 
 ```bash
+export OPENAI_API_KEY="YOUR_KEY_HERE"
 pip install -r requirements.txt
 python main.py <input_file.pdf|input_file.txt>
 ```
