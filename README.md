@@ -27,6 +27,7 @@ Hopkins is building an AI analyst for private equity. This tool parses CIMs and 
 ## 🚀 Usage
 
 ```bash
+pip install -r requirements.txt
 python main.py <input_file.pdf|input_file.txt>
 ```
 
