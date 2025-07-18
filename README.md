@@ -39,6 +39,7 @@ hopkins/
 │
 ├── main.py                      # CLI entry point
 ├── README.md
+├── LICENSE
 │
 ├── hopkins/                     # Main package (for importable code)
 │   ├── __init__.py
